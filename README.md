@@ -1,2 +1,2 @@
 # UAI
-![123](/flow_chart_of_minmax.png)
+![123](https://raw.githubusercontent.com/Anonymoususeforpapers/UAI/main/flow_chart_of_minmax.png)
